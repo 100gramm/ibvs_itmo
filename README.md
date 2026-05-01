@@ -56,16 +56,6 @@ To launch the main simulation environment and see the pre-trained agent or the C
 python main.py
 ```
 
-### Training the Agent
-If you wish to re-train the RL model using specific reward functions:
-```bash
-python train.py
-```
-
-### Configuration
-You can adjust simulation parameters (e.g., camera angles, link lengths, or RL hyperparameters) by modifying the configuration files in the `config/` directory or within the environment initialization in `main.py`.
-
----
 
 ## Project Structure
 
