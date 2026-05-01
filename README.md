@@ -1,6 +1,6 @@
 # IBVS ITMO: Image-Based Visual Servoing
 
-This repository contains a team project developed at ITMO University focused on **Image-Based Visual Servoing (IBVS)**. The project integrates Computer Vision (CV) and Reinforcement Learning (RL) to achieve stable control of robotic systems—specifically multi-link inverted pendulums—within the MuJoCo physics engine.
+This repository contains a team project developed at ITMO University focused on **Image-Based Visual Servoing (IBVS)**
 
 ## Project Description
 The goal of this project is to implement a control pipeline where a robot's state is determined through a visual feedback loop. Using cameras in a simulated environment, the system extracts key features to calculate control signals, bypassing traditional odometry where necessary.
