@@ -8,7 +8,6 @@ The goal of this project is to implement a control pipeline where a robot's stat
 ### Key Technologies
 * **Physics Simulation:** MuJoCo
 * **Computer Vision:** OpenCV (for feature extraction and image processing)
-* **Reinforcement Learning:** Stable Baselines3 (PPO/SAC algorithms)
 * **Language:** Python 3.9+
 
 ---
